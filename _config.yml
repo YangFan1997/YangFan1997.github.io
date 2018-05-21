@@ -3,10 +3,10 @@ title: 杨帆
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: Yangfan
+avatarTitle: Franklin
 # 头像里面的描述
-avatarDesc: web / Leap motion
-url: "http://baixin.io"
+avatarDesc: Web / Python
+url: "https://yangfan1997.github.io/"
 
 # Comment
 comment:
@@ -15,15 +15,15 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726
+    weibo: 2400662681
     github:  YangFan1997
     # twitter:
-    mail: leopardpan@icloud.com
+    mail: 2569436220@qq.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421
+    id: eeec46b50ba541c37e1e98fec1e2a2e0
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
