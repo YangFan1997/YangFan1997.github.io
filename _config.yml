@@ -1,17 +1,13 @@
 # Basic
-title: 杨帆
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 孤帆远影
+subtitle: 个人博客
+description: 孤帆远影碧空尽，唯见长江天际流
 # 头像里面的标题
 avatarTitle: Franklin
 # 头像里面的描述
-avatarDesc: Web / Python
+avatarDesc: Python
 url: "https://yangfan1997.github.io/"
 
-# Comment
-comment:
-    disqus:
-    # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
@@ -52,7 +48,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
-    - {title: 关于我, description: about, url: '/about'}
+    - {title: About Me, description: about, url: '/about'}
 
 
 # Pagination
