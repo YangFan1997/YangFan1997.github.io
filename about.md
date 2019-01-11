@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我
 ---
 
 一个在读生物医学工程专业的大学生，准备考研。喜欢编程，喜欢Python。
